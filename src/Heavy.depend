@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1572475964 source:c:\users\jlarsen\desktop\gravity\fsrc\heavy\main.f90
+
+1559324747 source:c:\users\jlarsen\desktop\gravity\fsrc\heavy\forsberg.f90
+
+1559324747 source:c:\users\jlarsen\desktop\gravity\fsrc\heavy\forsberg.f
+
+1582829482 source:c:\users\jlarsen\desktop\gravity\heavy\src\forsberg.f90
+
+1572545833 source:c:\users\jlarsen\desktop\gravity\heavy\src\frombas.f90
+
+1582315226 source:c:\users\jlarsen\desktop\gravity\heavy\src\main.f90
+
+1572541450 source:c:\users\jlarsen\desktop\gravity\heavy\src\parutl7.f90
+
+1580506582 source:c:\users\jlarsen\desktop\gravity\heavy\src\gwf2bas7_nwt.f
+
+1569517446 source:c:\users\jlarsen\desktop\gravity\heavy\src\gwf2lpf7.f
+
+1569517446 source:c:\users\jlarsen\desktop\gravity\heavy\src\utl7.f
+
+1572543122 source:c:\users\jlarsen\desktop\gravity\heavy\src\nwt1_module.f
+
+1580833227 source:c:\users\jlarsen\desktop\gravity\heavy\src\gwf2upw1.f
+
+1572648253 source:c:\users\jlarsen\desktop\gravity\heavy\src\heavydata.f90
+
+1582822086 source:c:\users\jlarsen\desktop\gravity\heavy\src\heavyhead.f90
+
+1582833401 source:c:\users\jlarsen\desktop\gravity\heavy\src\gwf2hvy1.f90
+
+1582833401 source:c:\users\jlarsen\desktop\gravity\heavy\src\pointmass.f90
+
+1601077620 source:e:\shared\current\research\heavy\src\gwf2bas7_nwt.f
+
+1601077620 source:e:\shared\current\research\heavy\src\nwt1_module.f
+
+1601156835 source:e:\shared\current\research\heavy\src\pointmass.f90
+
+1601077620 source:e:\shared\current\research\heavy\src\utl7.f
+
+1601077620 source:e:\shared\current\research\heavy\src\gwf2lpf7.f
+
+1601077620 source:e:\shared\current\research\heavy\src\gwf2upw1.f
+
+1601077620 source:e:\shared\current\research\heavy\src\parutl7.f90
+
+1601348452 source:e:\shared\current\research\heavy\src\forsberg.f90
+
+1601157557 source:e:\shared\current\research\heavy\src\gwf2hvy1.f90
+
+1601077620 source:e:\shared\current\research\heavy\src\heavyhead.f90
+
+1601327004 source:e:\shared\current\research\heavy\src\main.f90
+
+1638843584 source:e:\shared\current\projects\sgp\heavy\src\gwf2bas7_nwt.f
+
+1631556944 source:e:\shared\current\projects\sgp\heavy\src\nwt1_module.f
+
+1639754296 source:e:\shared\current\projects\sgp\heavy\src\pointmass.f90
+
+1638850027 source:e:\shared\current\projects\sgp\heavy\src\utl7.f
+
+1638850027 source:e:\shared\current\projects\sgp\heavy\src\gwf2lpf7.f
+
+1638850027 source:e:\shared\current\projects\sgp\heavy\src\gwf2upw1.f
+
+1638850027 source:e:\shared\current\projects\sgp\heavy\src\parutl7.f90
+
+1639754213 source:e:\shared\current\projects\sgp\heavy\src\forsberg.f90
+
+1649964619 source:e:\shared\current\projects\sgp\heavy\src\gwf2hvy1.f90
+
+1639693445 source:e:\shared\current\projects\sgp\heavy\src\heavyhead.f90
+
+1649964619 source:e:\shared\current\projects\sgp\heavy\src\main.f90
+
+1639693443 source:e:\shared\current\projects\sgp\heavy\src\linspace.f90
+

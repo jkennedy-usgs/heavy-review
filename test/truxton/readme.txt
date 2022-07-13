@@ -1,0 +1,1 @@
+time step 0 is initial head (not steady-state), so g calculations start at ts 1
